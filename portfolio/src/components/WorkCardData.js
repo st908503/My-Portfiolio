@@ -1,6 +1,5 @@
 import pro2 from '../assets/project1.png'
 import pro1 from '../assets/project2.png'
-import pro3 from '../assets/project3.png'
 import pro4 from '../assets/project4.png'
 import pro5 from '../assets/project5.png'
 import pro6 from '../assets/project6.png'
@@ -28,16 +27,6 @@ const ProjectCardData = [
     text: "Tesla Clone is a responsive homepage of Tesla website built using reactJs. The application makes use of react-icons and react-router-dom. Reusable components have been designed to break the code for simplicity.",
     view: "https://teslawebsiteclone.netlify.app/",
     source: "https://github.com/st908503/React_projects/tree/main/tesla"
-  },
-
-
-
-  {
-    imgsrc: pro3,
-    title: 'Tinder Clone Frontend Reactjs',
-    text: "Tinder Clone is a basic frontend landing page for Tinder website where client can swipe the users right or left based on their interests. The application makes use of Material UI for adding beautiful icons such as swipe-left, swipe-right, superlike etc.  ",
-    view: "https://tinderwebsiteclone.netlify.app/",
-    source: "https://github.com/st908503/React_projects/tree/main/tinder-clone-frontend"
   },
   {
     imgsrc: pro4,
